@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OweMeDinner</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_iou">IOUActivity</string>
+    <string name="boughtDinnerTView">Who bought dinner?</string>
+    <string name="btnMe">Me</string>
+    <string name="orTView"> Or</string>
+    <string name="btnContact">Select a Contact</string>
+    <string name="buyTView">Who did you buy dinner for?</string>
+    <string name="btnContactIOU">Select a Contact</string>
+    <string name="btnDelete">Delete</string>
+    <string name="trashIcon">trashIcon</string>
+</resources>
